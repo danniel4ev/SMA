@@ -5,6 +5,7 @@ from tkinter import ttk
 import customtkinter as cstk
 from .bl import *
 from PIL import Image
+import webbrowser
 from time import strftime, localtime
 cstk.set_default_color_theme('blue')
 #endregion
@@ -383,7 +384,8 @@ def main_page_form(username):
     utility.add_command(label="Exit", command=form.destroy)
 
     helpmenu = Menu(menubar, tearoff=0)
-    helpmenu.add_command(label="About...")
+    url = "https://github.com/danniel4ev/SMA"
+    helpmenu.add_command(label="About...", command=lambda: webbrowser.open(url=url))
 
     menubar.add_cascade(label="Utility", menu=utility, foreground='blue')
     menubar.add_cascade(label="Help", menu=helpmenu)
