@@ -1,0 +1,2 @@
+{'firstname': 'meisam', 'lastname': 'ilka', 'username': 'milka', 'email': 'milka@gmail.com', 'password': '12345'}
+{'firstname': 'Mahdi', 'lastname': 'Yaghoubi', 'username': 'danny', 'email': 'mahdiisme7@gmail.com', 'password': '1122'}

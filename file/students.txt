@@ -1,0 +1,6 @@
+{'firstname': 'Danial', 'lastname': 'Khosh Vaqar', 'nationalcode': '0023586310', 'age': '24', 'gender': 'male'}
+{'firstname': 'Arezoo', 'lastname': 'Naseri', 'nationalcode': '0102568124', 'age': '21', 'gender': 'female'}
+{'firstname': 'Mohsen', 'lastname': 'Daneshvar', 'nationalcode': '0021589634', 'age': '34', 'gender': 'male'}
+{'firstname': 'Nazanin', 'lastname': 'Poor Hayat', 'nationalcode': '0021584192', 'age': '28', 'gender': 'female'}
+{'firstname': 'Negar', 'lastname': 'Khodaverdi', 'nationalcode': '0051236980', 'age': '36', 'gender': 'female'}
+{'firstname': 'Alireza', 'lastname': 'Mir Babaee', 'nationalcode': '0102684255', 'age': '32', 'gender': 'male'}

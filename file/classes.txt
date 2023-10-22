@@ -1,0 +1,8 @@
+{'class_id': '1010', 'class_name': 'Calculus', 'class_start_date': '2022/05/17', 'class_day': 'Tuesday', 'students': ['0021589634', '0051236980']}
+{'class_id': '1011', 'class_name': 'Chemistry', 'class_start_date': '2022/04/28', 'class_day': 'Monday', 'students': ['0102568124', '0023586310', '0051236980']}
+{'class_id': '1012', 'class_name': 'Physics', 'class_start_date': '2022/06/08', 'class_day': 'Thursday', 'students': ['0051236980']}
+{'class_id': '1013', 'class_name': 'PA', 'class_start_date': '2022/11/01', 'class_day': 'Wednesday', 'students': ['0023586310', '0051236980']}
+{'class_id': '1014', 'class_name': 'Python', 'class_start_date': '2022/04/08', 'class_day': 'Thursday', 'students': ['0021589634']}
+{'class_id': '1015', 'class_name': 'JS', 'class_start_date': '2022/02/25', 'class_day': 'Friday', 'students': ['', '0102684255']}
+{'class_id': '1016', 'class_name': 'HTML', 'class_start_date': '2022/01/08', 'class_day': 'Monday', 'students': ['0102568124', '0021584192']}
+{'class_id': '1017', 'class_name': 'Go', 'class_start_date': '2022/07/05', 'class_day': 'Thursday', 'students': ['0102568124', '0021589634', '0021584192']}
